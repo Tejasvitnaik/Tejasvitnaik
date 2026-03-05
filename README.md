@@ -1,6 +1,6 @@
 Hi, I'm Tejasvi Naik 👋
 
-🎓 BCA Student at GFGC Sullia
+🎓 BCA Student at GFGC Soraba
 💻 Interested in Data Science, Web Development, and AI
 🚀 Passionate about learning new technologies and building useful projects
 
