@@ -7,7 +7,7 @@ Hi, I'm Tejasvi Naik 👋
 ---
 
 👨‍💻 About Me
-- 🎓 Currently pursuing Bachelor of Computer Applications (BCA) at GFGC Sullia
+- 🎓 Currently pursuing Bachelor of Computer Applications (BCA) at GFGC Soraba
 - 🌱 Learning Python, Data Science, and Web Development
 - 💡 Interested in AI, Data Analysis, and Problem Solving
 - 🎯 Goal: Build real-world projects and grow in the tech industry
@@ -41,7 +41,7 @@ Hi, I'm Tejasvi Naik 👋
 
 📫 Connect With Me
 
-- GitHub: https://github.com/yourusername
+- LinkedIn : https://www.linkedin.com/in/tejasvi-naik-9a8286371?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 ---
 
