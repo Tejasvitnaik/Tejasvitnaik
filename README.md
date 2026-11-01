@@ -1,122 +1,64 @@
 <h1 align="center">Hi 👋, I'm Tejasvi Naik</h1>
 
-<h3 align="center">MCA Student | Python Developer | Exploring AI, Data Science & Cybersecurity</h3>
+<h2 align="center">🎓 MCA Student at JSS Science and Technology University, Mysuru</h2>
+
+<h3 align="center">Python Developer | Aspiring Software Engineer | Exploring AI & Data Science</h3>
 
 <p align="center">
-  Building projects, learning new technologies, and working towards a career in the IT industry.
+  Passionate about technology, problem-solving, and building real-world projects.
 </p>
 
 ---
 
-## 👨‍💻 About Me
+### 🎓 Education
 
-* 🎓 Currently pursuing **Master of Computer Applications (MCA)** at **JSS Science and Technology University, Mysuru**.
-* 💻 Interested in Python development, software engineering, and web development.
+* Currently pursuing **Master of Computer Applications (MCA)** at **JSS Science and Technology University (JSS STU), Mysuru, Karnataka**.
+* Building a strong foundation in computer science, programming, and software development.
+* Preparing for future opportunities in the IT industry.
+
+### 👨‍💻 About Me
+
+* 💻 Interested in Python development and full-stack development.
 * 🤖 Exploring Artificial Intelligence, Machine Learning, and Data Science.
-* 🔐 Learning cybersecurity fundamentals and exploring security-focused projects.
-* 🚀 Interested in building practical projects that solve real-world problems.
-* 📈 Continuously improving my technical skills and preparing for campus placements.
-* 🤝 Believe in teamwork, continuous learning, and attention to detail.
+* 🔐 Interested in cybersecurity fundamentals.
+* 🚀 Enjoy building practical projects that solve real-world problems.
+* 🤝 Believe in teamwork, adaptability, and continuous learning.
 
----
+### 🛠️ Technical Skills
 
-## 🎯 Current Learning Goals
+* **Programming:** Python, JavaScript fundamentals
+* **Web Development:** HTML, CSS, Flask
+* **Database:** SQLite
+* **AI & Data Science:** Scikit-learn, Streamlit fundamentals
+* **Tools:** Git, GitHub, VS Code
 
-* Strengthening Python programming and problem-solving skills.
-* Learning Data Structures and Algorithms.
-* Improving full-stack web development skills.
-* Exploring Machine Learning and data analysis.
-* Understanding cybersecurity and ethical hacking fundamentals.
-* Practising technical interviews and professional communication.
+### 🚀 Featured Projects
 
----
+**1. CivicAI — AI-Powered Civic Issue Reporting System**
 
-## 🛠️ Technical Skills
+* A platform for reporting and managing civic issues.
+* Designed to support issue categorization, tracking, and prioritization.
+* **Technologies:** Python, Flask, SQLite, HTML, CSS, JavaScript.
 
-### Programming Languages
+**2. Smart Resume Analyzer**
 
-* Python
-* JavaScript — Fundamentals
+* A Python-based project for extracting and analyzing resume information.
+* **Technologies:** Python, Streamlit, pdfplumber, docx2txt, Scikit-learn.
 
-### Web Development
+### 🎯 Career Goals
 
-* HTML5
-* CSS3
-* Flask
+* Strengthen my problem-solving and Data Structures and Algorithms skills.
+* Build industry-relevant software projects.
+* Explore AI, Data Science, and software engineering.
+* Prepare for campus placements and professional growth.
 
-### Databases
+### 🤝 Connect With Me
 
-* SQLite
-
-### AI, Machine Learning & Data Science
-
-* Scikit-learn
-* Streamlit
-* Data analysis and machine learning fundamentals
-
-### Tools
-
-* Git
-* GitHub
-* Visual Studio Code
-
-### Other Interests
-
-* Cybersecurity fundamentals
-* Network security concepts
-* Problem-solving
-
----
-
-## 🚀 Featured Projects
-
-### 1. CivicAI — AI-Powered Civic Issue Reporting System
-
-A civic issue management platform designed to help citizens report public problems and improve communication between citizens and local authorities.
-
-**Key features:**
-
-* Report civic issues with descriptions and images.
-* Organize complaints into relevant categories.
-* Track reported issues.
-* Provide a dashboard for reviewing complaints.
-* Explore AI-based issue categorization and prioritization.
-
-**Technologies:** Python, Flask, SQLite, HTML, CSS, JavaScript, Scikit-learn.
-
-### 2. Smart Resume Analyzer
-
-A project exploring how Python can be used to extract and analyze information from resumes.
-
-**Technologies:** Python, Streamlit, pdfplumber, docx2txt, Scikit-learn.
-
-*Project descriptions should be updated to reflect the features implemented in each repository.*
-
----
-
-## 📚 Academic & Professional Goals
-
-My goal is to strengthen my foundations in computer science, develop practical software projects, and prepare for campus placements.
-
-I'm particularly interested in opportunities related to:
-
-* Python Development
-* Software Engineering
-* Data Analytics and Data Science
-* Artificial Intelligence and Machine Learning
-* Cybersecurity
-
-I'm always ready to learn, experiment, collaborate, and improve.
-
----
-
-## 🤝 Connect With Me
-
-* 💼 LinkedIn: [Connect with me on LinkedIn](https://www.linkedin.com/in/tejasvi-naik-9a8286371/)
-* 💻 GitHub: Explore my repositories and projects.
+* 💼 **LinkedIn:** [Tejasvi Naik](https://www.linkedin.com/in/tejasvi-naik-9a8286371/)
+* 💻 **GitHub:** Explore my repositories and projects.
 
 ---
 
 <p align="center">
-  <i>"Consistency, curiosity, and continuous improvement — one project at a time."</i>
+  <b>Currently learning, building, and growing at JSS STU, Mysuru! 🚀</b>
 </p>
